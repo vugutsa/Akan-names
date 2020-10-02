@@ -1,5 +1,14 @@
+body {
+   background-color: lightcoral;
+}
 .jumbotron {
     text-align: center;
     text-transform: uppercase;
     font-weight: bolder;
+}
+.jumbotron img {
+    background-size: 100px;
+}
+.vuguu p {
+    text-align: center;
 }
