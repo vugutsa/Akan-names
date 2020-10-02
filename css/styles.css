@@ -15,3 +15,9 @@ body {
 h2 {
     text-align: center;
 }
+.submit button {
+    color: darkred;
+}
+.submit button:hover {
+    color: darkslategrey;
+}
