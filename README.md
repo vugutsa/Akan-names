@@ -14,7 +14,7 @@ This project is build on a web application that takes a user's birthday and calc
 * Javascript
 ## Contact information
 For more information or inquires feel free to contact me on my email contact;
-vugutsamercy84@gmail.com
+* vugutsamercy84@gmail.com
 ## License
 MIT License
 
