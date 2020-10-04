@@ -1,5 +1,4 @@
 body {
-   background-color: lightcoral;
    background-image:url(https://1.bp.blogspot.com/-pZjol2_tzgQ/Vpj5ANclrDI/AAAAAAAAAh0/auJCiJOgSSU/s1600/33.jpg)
 }
 .vuguu {
@@ -16,6 +15,9 @@ body {
 }
 h2 {
     text-align: center;
+}
+.submit button:hover {
+    color: darkblue;
 }
 /* .submit button {
     color: darkred;
