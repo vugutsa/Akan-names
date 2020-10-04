@@ -1,11 +1,15 @@
 body {
    background-color: lightcoral;
+   background-image:url(https://1.bp.blogspot.com/-pZjol2_tzgQ/Vpj5ANclrDI/AAAAAAAAAh0/auJCiJOgSSU/s1600/33.jpg)
+}
+.vuguu {
+    color: cornsilk;
 }
 .jumbotron {
     text-align: center;
     text-transform: uppercase;
     font-weight: bolder;
-    color: darkslategrey;
+    color: blue;
 }
 .vuguu p {
     text-align: center;
@@ -19,3 +23,6 @@ h2 {
 /* .submit button:hover {
     color: darkslategrey;
 } */
+.container {
+    padding-top: -300px;
+}
