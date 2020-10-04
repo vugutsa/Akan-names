@@ -5,7 +5,7 @@ This project is build on a web application that takes a user's birthday and calc
 ## Authors
 * Mercy Vugutsa
 ## Set up and installation
-- Clone this repository to a location in your file system.
+- Clone this repository to a location in your file system;`git clone https://github.com/vugutsa/Akan-names.git`
 - Open terminal command line then navigate to the root folder of the application.`cd Independent-Project2` on your browser.
 - Open `index.html`on your browser.
 ## Technologies used
